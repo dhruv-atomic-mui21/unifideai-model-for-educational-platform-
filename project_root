@@ -1,0 +1,19 @@
+# Logs and temporary files
+logs/
+*.log
+
+# Python-specific
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment files
+.env
+venv/
+.DS_Store
+
+# Jupyter notebook checkpoints
+notebooks/.ipynb_checkpoints/
+
+# Docker
+*.pid
